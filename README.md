@@ -4,7 +4,7 @@
 
 
 ## Early Christmas Update pt.1
-#### Hi there! We recently added our delayed Easter update content to Bradnails for you all to enjoy. However, due to various setbacks such as holidays and standardized assessments, some of our update content has been pushed back to a part 2 update. This update is very soon to come and is mainly delayed due to slow download/torrent speeds. You may notice some items labeled as "Coming in the near future!", which refers to the part 2 update. However, there is more coming than just those items. Thank you for your understanding
+#### Hey all! We recently added our first update content to UBA for you all to enjoy. But, due to  setbacks such as holidays and maths assessments, some of our update content has been pushed back to a 2023 update. This update is very soon to come and is mainly delayed due to slow download speeds. You may notice some items labeled as "Coming in the future!", which refers to the 2023 update. However, there is more coming than just those items. Thank you for your understanding
 
 -Retreals/Damonsudo
 
@@ -95,16 +95,3 @@ If you want to save game progress, you can keep your saves on a flash drive or s
 
 If you want to take an extra step in being safe, delete both your web history and your downloaded file history.
 
-## About The Devs
-#### KushKonsumer
-- As the name states, enjoys consuming copious amounts of kush. In their free time, they like to play video games and consume kush.
-#### Spoodermoon731
-- As the name also states, big Batman fan. They started to replay Batman Arkham Night for the hype for the new Matrix movie.
-#### StanfieldMozart
-- As the name doesn't state, they enjoy the outdoors and seeing the world. They know a thing or two about coding. That about all there is to them.
-#### Rev2 
-- Big PlayStation fan. Skatebording is cool but I'm ass at it. Don't gatekeep.
-#### MunchieMasher
-- As the name states, enjoys mashing massive ammounts of munchies. In their free time, they like gaming and mashing munchies.
-#### Caesar
-- Caeser
