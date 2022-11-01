@@ -76,9 +76,9 @@ To install your own games, go to your home computer, download the game, compact 
 
 If you're looking to install mods for a game, do the same process as you would do when installing your own game. You may also want to check if the game needs a mod manager, as many do. Follow the instructions the mod manager provides you in that circumstance.
 
-- *Will I get caught?*
+- *What happens if i get caught?!?!?!?*
 
-If you've followed our advice and used your own wits, we certainly hope not, but there isn't any guarantee. My best advice would be to always check if a teacher is close by. It can save you the trouble.
+If you've followed my advice and used your own interneting skill, we certainly hope not, but there isn't any guarantee. My best advice would be to always check if a teacher is near by. It can save you the trouble.
 
 - *How do I uninstall my games?*
 
