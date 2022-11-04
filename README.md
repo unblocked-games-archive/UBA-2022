@@ -91,9 +91,9 @@ Delete any game save data in your “Documents” folder.
 Type “%appdata%” in the windows search bar, delete any settings configs or save data related to the game you downloaded.
 Clear your recycling bin.
 
-**Not all games will write data to your Documents or appdata folder, if you aren’t sure if it’s a game file, don’t delete it!**
+***Not all games will write data to your Documents or appdata folder, if you aren’t sure if it’s a game file, don’t delete it!***
 
-If you want to save game progress, you can keep your saves on a flash drive or separate computer.
+If you want to save game progress, you can keep your saves on a external usb drive or a google drive.
 
-If you want to take an extra step in being safe, delete both your web history and your downloaded file history.
+If you want to take an extra step in being safe, delete both your search history and your files that you have downloaded.
 
