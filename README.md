@@ -13,7 +13,9 @@
 ###### Made for any laptop that runs windows 10.
 
 ## Links
-![header](https://i.imgur.com/4M7IWwP.gif)
+  
+  ![header](https://i.imgur.com/4M7IWwP.gif)
+  
 [Discord](https://discord.gg/tAfDFVMpnB) - [Patch Notes](https://github.com/unblocked-games-archive/UBA-2022/blob/42422281c85c54bc51d3e8c0c3120086eef096f9/Patchnotes.md)
 
 [Games](https://github.com/Project-Bradnails/Bradnails1/blob/main/Software/software-list.md) - [Movies](https://github.com/Project-Bradnails/Bradnails/blob/main/Software/movies-list.md) 
