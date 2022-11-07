@@ -16,7 +16,7 @@
   
   ![header](https://i.imgur.com/4M7IWwP.gif)
   
-[Discord](https://discord.gg/tAfDFVMpnB) - [Patch Notes](https://github.com/unblocked-games-archive/UBA-2022/blob/42422281c85c54bc51d3e8c0c3120086eef096f9/Patchnotes.md)
+[Discord](https://discord.gg/eqprnJDYJH) - [Patch Notes](https://github.com/unblocked-games-archive/UBA-2022/blob/42422281c85c54bc51d3e8c0c3120086eef096f9/Patchnotes.md)
 
 [Games](https://github.com/Project-Bradnails/Bradnails1/blob/main/Software/software-list.md) - [Movies](https://github.com/Project-Bradnails/Bradnails/blob/main/Software/movies-list.md) 
 
@@ -71,25 +71,27 @@ Video game console emulators are programs that allow a personal computer or vide
 
 - *How do I install my own games?*
 
-We can't add every possible game ever, so if you want to install your own game, feel free to do so with this information.
+We can't add every possible game, so if you want to install your own game, feel free to do so with this information.
 To install your own games, go to your home computer, download the game, compact the game files into a .zip and upload to Google Drive, MEGA, or DropBox. Then redownload on the school computer, unzip, and play. If the game uses an install.exe, run the installer and then take the files from it and do the same as the above. For this, make sure to double check the %AppData% and %LocalAppData% folders for any other game files. If there are game files there, add them to the folder you are compressing into a .zip, and once you unzip on the laptop, add them back to where they came from (either the %AppData% folder or %LocalAppData% folder.
 
 - *How do I install game mods?*
+--------------------------------
+If you're looking to install mods for a game, do the same process as you would do when installing the same game non cracked. You may also need a steam workshop downloader. to check if the game needs a mod manager, as many do. Follow the instructions the mod manager provides you..
 
-If you're looking to install mods for a game, do the same process as you would do when installing your own game. You may also want to check if the game needs a mod manager, as many do. Follow the instructions the mod manager provides you in that circumstance.
+- *What happens if i get caught?!?!?!
+--------------------------------------
+If you've followed my advice and used your own interneting skill, i certainly hope not, but there isn't any guarantee. My best advice would be to always check if a teacher is near by. It can save you the trouble.
 
-- *What happens if i get caught?!?!?!?*
+- *How do I uninstall my games??*
 
-If you've followed my advice and used your own interneting skill, we certainly hope not, but there isn't any guarantee. My best advice would be to always check if a teacher is near by. It can save you the trouble.
-
-- *How do I uninstall my games?*
 
 Delete the folder you downloaded. 
+
 
 Delete any game save data in your “Documents” folder.
 
 Type “%appdata%” in the windows search bar (press the windows button at the bottom of your keyboard to access), delete any settings configs or save data related to the game you downloaded.
-Clear your recycling bin.
+Clear your recycling bin. 
 
 ***Not all games will write the game data to your Documents or appdata folder, if you aren’t sure if it’s a game file or not, don’t delete it!***
 
