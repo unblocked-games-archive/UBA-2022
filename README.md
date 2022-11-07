@@ -61,13 +61,13 @@ Disable your Internet, that will disable SmartScreen, the system used to force t
 
 - *My game still won't run?* 
 
-Not all games will work on every computer. It's best to make sure you have DirectX, which is used for lots of games.
+Not all games will work on every computer. It's best to make sure you have DirectX 11 or 12, which is used for lots of games.
 It may or may not be a driver issue or missing system files, which cannot be fixed as administrator permissions are
 required.
 
-- *What is an Emulator? What are ROMs?*
+- *What is a Emulator or a ROM?*
 
-An emulator is software used to imitate and replicate old console hardware so a computer can run the games for this hardware. ROMs are the games themselves. We use RetroArch as the main emulator here, as it has multiple "cores" inside it, which allows it to act as an all in one emulator. We will upload our own ROMs, but if you can't find one you are looking for, check vimm.net, run a google search for "[Game] google drive"* , or download from another ROMs site like The ROMs Depot and reupload onto Google Drive so you can redownload it onto your laptop
+Video game console emulators are programs that allow a personal computer or video game console to emulate another video game console. Essentially, emulators are small programs that mimic the behavior of a specific game console. ROMs, meaning “read only memory,” can be many things – but in this context, a ROM is a digital copy of a video game. We use RetroArch as the main emulator here, as it has multiple games inside it, which allows it to act as an all in one emulator. We will upload our own ROMs, but if you can't find one you are looking for, check vimm.net, run a google search for "[Game] google drive"* , or download from another ROMs site like The ROMs Depot and reupload onto Google Drive so you can redownload it onto your laptop
 
 - *How do I install my own games?*
 
