@@ -16,9 +16,9 @@
   
   ![header](https://i.imgur.com/4M7IWwP.gif)
   
-[Discord](https://discord.gg/eqprnJDYJH) - [Patch Notes](https://github.com/unblocked-games-archive/UBA-2022/blob/42422281c85c54bc51d3e8c0c3120086eef096f9/Patchnotes.md)
+[Discord](https://discord.gg/eqprnJDYJH) - [Patch Notes](https://github.com/unblocked-games-archive/UBA-2022/blob/main/Software%20list.md/Software%20List.md)
 
-[Games](https://github.com/Project-Bradnails/Bradnails1/blob/main/Software/software-list.md) - [Movies](https://github.com/Project-Bradnails/Bradnails/blob/main/Software/movies-list.md) 
+[Games]() - [Movies](https://github.com/Project-Bradnails/Bradnails/blob/main/Software/movies-list.md) 
 
 ## Installation
 1. Open game link from the [Games List](https://github.com/ProjectBradnails/Bradnails1/blob/main/Software/software-list.md)
